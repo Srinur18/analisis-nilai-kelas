@@ -1,0 +1,21 @@
+HASIL ANALISIS NILAI KELAS
+==================================================
+Jumlah mahasiswa: 10
+Rata-rata nilai: 72.50
+Nilai tertinggi: 95.0
+Nilai terendah: 50.0
+Jumlah lulus: 8
+Jumlah tidak lulus: 2
+
+DAFTAR NILAI MAHASISWA
+--------------------------------------------------
+Andi, 80.00, Lulus
+Budi, 75.00, Lulus
+Citra, 90.00, Lulus
+Dina, 60.00, Lulus
+Eko, 55.00, Tidak Lulus
+Fani, 85.00, Lulus
+Gilang, 70.00, Lulus
+Hana, 95.00, Lulus
+Indra, 50.00, Tidak Lulus
+Joko, 65.00, Lulus
